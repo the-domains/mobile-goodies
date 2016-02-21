@@ -1,0 +1,28 @@
+name: Mobile Goodies
+favicon: null
+layout_spectrum: 0.6154570174403489
+typography_spectrum: 0.11560884607024491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5411222262773663
+  lightness: 0.6836993575561792
+  saturation: 0.13240942358970642
+  rhythmicContrast: 0.5452093193307519
+purpose: []

@@ -1,7 +1,7 @@
-name: Mobile Goodies
+name: Mobile Goodness
 favicon: null
-layout_spectrum: 0.6154570174403489
-typography_spectrum: 0.11560884607024491
+layout_spectrum: 1
+typography_spectrum: 0.21073
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5411222262773663
-  lightness: 0.6836993575561792
-  saturation: 0.13240942358970642
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0
   rhythmicContrast: 0.5452093193307519
 purpose: []

@@ -19,7 +19,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Mobile Goodness
+name: Mobile Delights
 cta:
   bucket: null
   version: null
@@ -37,4 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Mobile Delights
 purpose: []

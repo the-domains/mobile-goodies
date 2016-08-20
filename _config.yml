@@ -1,9 +1,30 @@
-favicon: null
-name: Mobile Goodness
+typography_spectrum: 0.60219
+color:
+  saturation: 0.3125
+  brandStrength: 0
+  rhythmicContrast: 0.5452093193307519
+  brandColors:
+    - '#f2f7fd'
+    - '#1d1f1e'
+    - '#b24a15'
+    - '#f7a714'
+    - '#d311fd'
+  lightness: 1
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.1433692
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Mobile Goodness
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -17,24 +38,3 @@ collections:
       format: rss
       number: 10
 purpose: []
-color:
-  saturation: 0.3125
-  brandStrength: 0
-  rhythmicContrast: 0.5452093193307519
-  brandColors:
-    - '#f2f7fd'
-    - '#1d1f1e'
-    - '#b24a15'
-    - '#f7a714'
-    - '#d311fd'
-  lightness: 1
-typography_spectrum: 0.60219
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.1433692
-analytics:
-  twitter: null
-  google: null
-  facebook: null
